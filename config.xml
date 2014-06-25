@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.tenforwardconsulting.guinan" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Guinan</name>
+    <description>
+        Testbed application for Ten Forward Consulting
+    </description>
+    <author email="brian@tenforwardconsulting.com" href="http://tenforwardconsulting.com">
+        Brian Samson
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <icon src="www/img/10fw-green-1024.png" />
+</widget>
