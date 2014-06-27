@@ -1,3 +1,10 @@
 /node_modules
 .DS_Store
 platforms/ios/www
+platforms/android/assets/www
+platforms/android/bin
+platforms/android/ant-build
+platforms/android/ant-gen
+platforms/android/CordovaLib/bin
+platforms/android/CordovaLib/ant-build
+platforms/android/CordovaLib/ant-gen

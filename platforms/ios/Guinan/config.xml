@@ -19,9 +19,6 @@
     <feature name="LocalStorage">
         <param name="ios-package" value="CDVLocalStorage" />
     </feature>
-    <feature name="CloudFivePush">
-        <param name="ios-package" value="CloudFivePush" />
-    </feature>
     <name>Guinan</name>
     <description>
         Testbed application for Ten Forward Consulting
@@ -32,4 +29,7 @@
     <content src="index.html" />
     <access origin="*" />
     <icon src="www/img/10fw-green-1024.png" />
+    <feature name="CloudFivePush">
+        <param name="ios-package" value="CloudFivePush" />
+    </feature>
 </widget>
